@@ -44,6 +44,7 @@ int findsum(int x){
        
        
    return swaps;
+   //need to learn this cycle count;
 
         
     }
